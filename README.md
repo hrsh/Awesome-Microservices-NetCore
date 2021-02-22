@@ -65,6 +65,10 @@ January 2019-
 
 12. [Building microservices through Event Driven Architecture part12 : Produce events to Apache KAFKA](https://logcorner.com/building-microservices-through-event-driven-architecture-part12-produce-events-to-apache-kafka/)
 
+13. [Building microservices through Event Driven Architecture part13 : Consume events from Apache KAFKA and project streams into ElasticSearch](https://logcorner.com/building-microservices-through-event-driven-architecture-part13-read-model-projection-project-streams-into-elasticsearch/)
+
+14. [Building microservices through Event Driven Architecture part14 : Query API](https://logcorner.com/building-micro-services-through-event-driven-architecture-part14-query-api/)
+
 **Repository :** https://github.com/logcorner/LogCorner.EduSync.Speech.Command/  https://github.com/logcorner/LogCorner.EduSync.Speech.ServiceBus
 
 ### Building API Gateway Using Ocelot In ASP.NET Core
